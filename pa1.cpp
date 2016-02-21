@@ -21,6 +21,7 @@ int main() {
 	cout << n << endl;
 	MagicSquare square(n); //Creates Magicsquare object with int n as size parameter
 	square.buildSquare();
+	swag;
 
 	//First Magicsquare
 	cout << "Magic Square #1 is:" << endl;
